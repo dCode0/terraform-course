@@ -10,7 +10,7 @@ variable "PATH_TO_PUBLIC_KEY" {
 variable "amis" {
   type = map(string)
   default = {
-    us-east-1 = "ami-0713f98de93617bb4"
+    us-east-1 = "ami-062f7200baf2fa504"
   }
 
 }
